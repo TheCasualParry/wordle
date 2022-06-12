@@ -1,2 +1,2 @@
-# wordle
+Wordle Discord Bot
  
